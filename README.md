@@ -21,3 +21,5 @@ JSON Server;
 NGX-Infinit-Scroll;
 RxJS.
 
+# Project in development
+
